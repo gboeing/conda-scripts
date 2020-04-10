@@ -1,3 +1,4 @@
+#!/bin/bash
 conda update -n base conda --yes
 conda config --set report_errors false
 conda config --set show_channel_urls true
