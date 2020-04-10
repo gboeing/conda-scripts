@@ -1,0 +1,9 @@
+anaconda-clean
+conda-smithy
+pandoc
+pillow
+pyperclip
+python-twitter
+requests
+sphinx
+twine
