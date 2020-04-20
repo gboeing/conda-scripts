@@ -19,7 +19,7 @@ dependencies:
   - cmarkgfm=0.4.2=py37hfa6e2cd_2
   - conda=4.8.3=py37hc8dfbb8_1
   - conda-build=3.19.2=py37hc8dfbb8_0
-  - conda-forge-pinning=2020.04.18.00.00.57=1
+  - conda-forge-pinning=2020.04.20.03.17.56=0
   - conda-package-handling=1.6.0=py37h702c6c1_2
   - conda-smithy=3.6.16=py_0
   - console_shortcut=0.1.1=4
@@ -129,5 +129,5 @@ dependencies:
   - zipp=3.1.0=py_0
   - zlib=1.2.11=h2fa13f4_1006
   - zstd=1.4.4=h9f78265_3
-prefix: c:\Anaconda
+prefix: C:\Anaconda
 
