@@ -12,6 +12,7 @@ dependencies:
   - bleach=3.1.4=pyh9f0ad1d_0
   - blinker=1.4=py_1
   - boolean.py=3.7=py_0
+  - brotlipy=0.7.0=py37h8f50634_1000
   - bzip2=1.0.8=h516909a_2
   - ca-certificates=2020.4.5.1=hecc5488_0
   - certifi=2020.4.5.1=py37hc8dfbb8_0
@@ -20,9 +21,9 @@ dependencies:
   - cmarkgfm=0.4.2=py37h516909a_2
   - conda=4.8.3=py37hc8dfbb8_1
   - conda-build=3.19.2=py37hc8dfbb8_0
-  - conda-forge-pinning=2020.04.10.18.29.06=1
+  - conda-forge-pinning=2020.04.22.03.51.02=0
   - conda-package-handling=1.6.0=py37h8f50634_2
-  - conda-smithy=3.6.16=py_0
+  - conda-smithy=3.6.17=py_0
   - cryptography=2.8=py37hb09aad4_2
   - curl=7.69.1=h33f0ec9_0
   - dbus=1.13.6=he372182_0
@@ -34,10 +35,10 @@ dependencies:
   - freetype=2.10.1=he06d7ca_0
   - future=0.18.2=py37hc8dfbb8_1
   - gettext=0.19.8.1=hc5be6a0_1002
-  - git=2.26.0=pl526hf241897_0
-  - gitdb=4.0.2=py_0
-  - gitpython=3.1.0=py_0
-  - glib=2.58.3=py37he00f558_1004
+  - git=2.26.2=pl526h5e3e691_0
+  - gitdb=4.0.4=py_0
+  - gitpython=3.1.1=py_0
+  - glib=2.64.2=h6f030ca_0
   - glob2=0.7=py_0
   - icu=64.2=he1b5a44_1
   - idna=2.9=py_1
@@ -46,12 +47,12 @@ dependencies:
   - importlib_metadata=1.6.0=0
   - isodate=0.6.0=py_1
   - jeepney=0.4.3=py_0
-  - jinja2=2.11.1=py_0
+  - jinja2=2.11.2=pyh9f0ad1d_0
   - jpeg=9c=h14c3975_1001
   - keyring=21.1.1=py37hc8dfbb8_2
   - krb5=1.17.1=h2fd8d38_0
   - ld_impl_linux-64=2.34=h53a641e_0
-  - libarchive=3.3.3=hc47fbbf_1007
+  - libarchive=3.3.3=h3a8160c_1008
   - libcurl=7.69.1=hf7181ac_0
   - libedit=3.1.20170329=hf8c457e_1001
   - libffi=3.2.1=he1b5a44_1007
@@ -66,16 +67,16 @@ dependencies:
   - libwebp-base=1.1.0=h516909a_3
   - libxml2=2.9.10=hee79883_0
   - license-expression=1.2=py_0
-  - lz4-c=1.8.3=he1b5a44_1001
+  - lz4-c=1.9.2=he1b5a44_0
   - lzo=2.10=h14c3975_1000
   - markupsafe=1.1.1=py37h8f50634_1
   - msrest=0.6.10=py_0
   - ncurses=6.1=hf484d3e_1002
   - oauthlib=3.0.1=py_0
   - olefile=0.46=py_0
-  - openssl=1.1.1f=h516909a_0
+  - openssl=1.1.1g=h516909a_0
   - packaging=20.1=py_0
-  - pandoc=2.9.2=0
+  - pandoc=2.9.2.1=0
   - patchelf=0.10=he1b5a44_0
   - pcre=8.44=he1b5a44_0
   - perl=5.26.2=h516909a_1006
@@ -113,10 +114,10 @@ dependencies:
   - secretstorage=3.1.2=py37hc8dfbb8_1
   - setuptools=46.1.3=py37hc8dfbb8_0
   - six=1.14.0=py_1
-  - smmap=3.0.1=py_0
+  - smmap=3.0.2=pyh9f0ad1d_0
   - snowballstemmer=2.0.0=py_0
   - soupsieve=1.9.4=py37hc8dfbb8_1
-  - sphinx=3.0.1=py_0
+  - sphinx=3.0.2=py_0
   - sphinxcontrib-applehelp=1.0.2=py_0
   - sphinxcontrib-devhelp=1.0.2=py_0
   - sphinxcontrib-htmlhelp=1.0.3=py_0
@@ -128,15 +129,15 @@ dependencies:
   - toolz=0.10.0=py_0
   - tqdm=4.45.0=pyh9f0ad1d_0
   - twine=3.1.1=py37_0
-  - urllib3=1.25.8=py37hc8dfbb8_1
+  - urllib3=1.25.9=py_0
   - vsts-python-api=0.1.22=py_0
   - webencodings=0.5.1=py_1
   - wheel=0.34.2=py_1
   - wrapt=1.12.1=py37h8f50634_1
   - xz=5.2.5=h516909a_0
-  - yaml=0.2.2=h516909a_1
+  - yaml=0.2.4=h516909a_0
   - zipp=3.1.0=py_0
   - zlib=1.2.11=h516909a_1006
-  - zstd=1.4.4=h3b9ef0a_2
+  - zstd=1.4.4=h6597ccf_3
 prefix: /home/geoff/miniconda3
 
