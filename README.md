@@ -1,2 +1,3 @@
 # conda-scripts
-scripts for configuring conda and updating its base environment
+
+Scripts for configuring conda and updating its base environment
