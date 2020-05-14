@@ -20,7 +20,7 @@ dependencies:
   - cryptography=2.9.2=py37h26f1ce3_0
   - docutils=0.16=py37hc8dfbb8_1
   - entrypoints=0.3=py37hc8dfbb8_1001
-  - freetype=2.10.1=ha9979f8_0
+  - freetype=2.10.2=hd328e21_0
   - future=0.18.2=py37hc8dfbb8_1
   - idna=2.9=py_1
   - imagesize=1.2.0=py_0
@@ -62,7 +62,7 @@ dependencies:
   - requests-oauthlib=1.2.0=py_0
   - requests-toolbelt=0.9.1=py_0
   - ruamel_yaml=0.15.80=py37h8055547_1001
-  - setuptools=46.2.0=py37hc8dfbb8_0
+  - setuptools=46.3.0=py37hc8dfbb8_0
   - six=1.14.0=py_1
   - snowballstemmer=2.0.0=py_0
   - sphinx=3.0.3=py_0
@@ -88,5 +88,5 @@ dependencies:
   - zipp=3.1.0=py_0
   - zlib=1.2.11=h2fa13f4_1006
   - zstd=1.4.4=h9f78265_3
-prefix: C:\Users\Geoff\miniconda3
+prefix: C:\Anaconda
 
