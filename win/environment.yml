@@ -27,7 +27,7 @@ dependencies:
   - importlib-metadata=1.6.0=py37hc8dfbb8_0
   - importlib_metadata=1.6.0=0
   - jinja2=2.11.2=pyh9f0ad1d_0
-  - jpeg=9c=hfa6e2cd_1001
+  - jpeg=9d=he774522_0
   - keyring=21.2.1=py37hc8dfbb8_0
   - libpng=1.6.37=hfe6a214_1
   - libtiff=4.1.0=h885aae3_6
@@ -51,7 +51,7 @@ dependencies:
   - pyparsing=2.4.7=pyh9f0ad1d_0
   - pyperclip=1.7.0=py_0
   - pysocks=1.7.1=py37hc8dfbb8_1
-  - python=3.7.6=h60c2a47_5_cpython
+  - python=3.7.6=cpython_h60c2a47_6
   - python-twitter=3.5=py_0
   - python_abi=3.7=1_cp37m
   - pytz=2020.1=pyh9f0ad1d_0
@@ -74,7 +74,7 @@ dependencies:
   - sphinxcontrib-serializinghtml=1.1.4=py_0
   - sqlite=3.30.1=hfa6e2cd_0
   - tk=8.6.10=hfa6e2cd_0
-  - tqdm=4.46.0=pyh9f0ad1d_0
+  - tqdm=4.46.1=pyh9f0ad1d_0
   - twine=3.1.1=py37_0
   - urllib3=1.25.9=py_0
   - vc=14.1=h869be7e_1
@@ -84,7 +84,7 @@ dependencies:
   - win_inet_pton=1.1.0=py37_0
   - wincertstore=0.2=py37_1003
   - xz=5.2.5=h2fa13f4_0
-  - yaml=0.2.4=he774522_0
+  - yaml=0.2.5=he774522_0
   - zipp=3.1.0=py_0
   - zlib=1.2.11=h2fa13f4_1006
   - zstd=1.4.4=h9f78265_3
