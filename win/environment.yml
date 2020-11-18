@@ -51,7 +51,7 @@ dependencies:
   - pyparsing=2.4.7=pyh9f0ad1d_0
   - pyperclip=1.8.0=pyh9f0ad1d_0
   - pysocks=1.7.1=py37hf50a25e_2
-  - python=3.7.8=h60c2a47_1_cpython
+  - python=3.7.8=h7840368_2_cpython
   - python-twitter=3.5=py_0
   - python_abi=3.7=1_cp37m
   - pytz=2020.4=pyhd8ed1ab_0
