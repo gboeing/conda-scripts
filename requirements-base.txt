@@ -1,9 +1,9 @@
 anaconda-clean
 mamba
+nbdime
 pandoc
 pillow
 pyperclip
 python-twitter
 requests
-sphinx
 twine

@@ -28,8 +28,8 @@ dependencies:
   - cmarkgfm=0.4.2=py38h25fe258_3
   - colorama=0.4.4=pyh9f0ad1d_0
   - conda=4.9.2=py38h578d9bd_0
-  - conda-build=3.21.3=py38h578d9bd_0
-  - conda-forge-pinning=2021.01.14.14.58.32=hd8ed1ab_0
+  - conda-build=3.21.4=py38h578d9bd_0
+  - conda-forge-pinning=2021.01.20.17.38.08=hd8ed1ab_0
   - conda-package-handling=1.7.2=py38h8df0ef7_0
   - conda-smithy=3.8.6=pyhd8ed1ab_0
   - cryptography=3.3.1=py38h2b97feb_1
@@ -76,31 +76,31 @@ dependencies:
   - libedit=3.1.20191231=he28a2e2_2
   - libev=4.33=h516909a_1
   - libffi=3.3=h58526e2_2
-  - libgcc-ng=9.3.0=h5dbcf3e_17
+  - libgcc-ng=9.3.0=h2828fa1_18
   - libglib=2.66.4=h164308a_1
-  - libgomp=9.3.0=h5dbcf3e_17
+  - libgomp=9.3.0=h2828fa1_18
   - libiconv=1.16=h516909a_0
   - liblief=0.10.1=he1b5a44_2
   - libnghttp2=1.41.0=h8cfc5f6_2
   - libpng=1.6.37=h21135ba_2
   - libsodium=1.0.18=h36c2ea0_1
-  - libsolv=0.7.16=h8b12597_0
+  - libsolv=0.7.17=h780b84a_0
   - libssh2=1.9.0=hab1572f_5
-  - libstdcxx-ng=9.3.0=h2ae2ef3_17
+  - libstdcxx-ng=9.3.0=h6de172a_18
   - libtiff=4.2.0=hdc55705_0
   - libwebp-base=1.1.0=h36c2ea0_3
   - libxml2=2.9.10=h72842e0_3
   - license-expression=1.2=py_0
   - lz4-c=1.9.3=h9c3ff4c_0
   - lzo=2.10=h516909a_1000
-  - mamba=0.7.8=py38h04e887d_0
+  - mamba=0.7.8=py38h2aa5da1_1
   - markupsafe=1.1.1=py38h497a2fe_3
   - mistune=0.8.4=py38h497a2fe_1003
   - msrest=0.6.19=pyh9f0ad1d_0
   - nbclient=0.5.1=py_0
   - nbconvert=6.0.7=py38h578d9bd_3
   - nbdime=2.1.0=py_0
-  - nbformat=5.1.0=pyhd8ed1ab_0
+  - nbformat=5.1.2=pyhd8ed1ab_1
   - ncurses=6.2=h58526e2_4
   - nest-asyncio=1.4.3=pyhd8ed1ab_0
   - notebook=6.2.0=py38h578d9bd_0
@@ -118,7 +118,7 @@ dependencies:
   - pickleshare=0.7.5=py_1003
   - pillow=8.1.0=py38h357d4e7_1
   - pip=20.3.3=pyhd8ed1ab_0
-  - pkginfo=1.6.1=pyh9f0ad1d_0
+  - pkginfo=1.7.0=pyhd8ed1ab_0
   - prometheus_client=0.9.0=pyhd3deb0d_0
   - prompt-toolkit=3.0.10=pyha770c72_0
   - psutil=5.8.0=py38h497a2fe_1
@@ -128,8 +128,8 @@ dependencies:
   - pycparser=2.20=pyh9f0ad1d_2
   - pycrypto=2.6.1=py38h8df0ef7_1005
   - pygithub=1.44=py38h32f6830_0
-  - pygments=2.7.3=pyhd8ed1ab_0
-  - pyjwt=2.0.0=pyhd8ed1ab_0
+  - pygments=2.7.4=pyhd8ed1ab_0
+  - pyjwt=2.0.1=pyhd8ed1ab_0
   - pyopenssl=20.0.1=pyhd8ed1ab_0
   - pyparsing=2.4.7=pyh9f0ad1d_0
   - pyperclip=1.8.1=pyhd3deb0d_0
@@ -142,7 +142,7 @@ dependencies:
   - python_abi=3.8=1_cp38
   - pytz=2020.5=pyhd8ed1ab_0
   - pyyaml=5.3.1=py38h497a2fe_2
-  - pyzmq=21.0.0=py38h3d7ac18_0
+  - pyzmq=21.0.1=py38h3d7ac18_0
   - readline=8.0=he28a2e2_2
   - readme_renderer=27.0=pyh9f0ad1d_0
   - reproc=14.2.1=h36c2ea0_0

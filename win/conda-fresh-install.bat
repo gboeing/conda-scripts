@@ -6,6 +6,7 @@ CALL conda config --set show_channel_urls true
 CALL conda config --set channel_priority strict
 CALL conda config --prepend channels conda-forge
 CALL conda install --update-all --yes --file ../requirements-base.txt
+CALL nbdime config-git --enable --global
 CALL conda clean --all --yes --quiet
 CALL conda env export -n base > environment.yml
 CALL conda init --all
